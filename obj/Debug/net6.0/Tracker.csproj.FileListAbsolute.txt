@@ -1,0 +1,15 @@
+/home/philipp/Dokumente/Programmieren/C#/Tracker/bin/Debug/net6.0/Tracker
+/home/philipp/Dokumente/Programmieren/C#/Tracker/bin/Debug/net6.0/Tracker.deps.json
+/home/philipp/Dokumente/Programmieren/C#/Tracker/bin/Debug/net6.0/Tracker.runtimeconfig.json
+/home/philipp/Dokumente/Programmieren/C#/Tracker/bin/Debug/net6.0/Tracker.dll
+/home/philipp/Dokumente/Programmieren/C#/Tracker/bin/Debug/net6.0/Tracker.pdb
+/home/philipp/Dokumente/Programmieren/C#/Tracker/obj/Debug/net6.0/Tracker.csproj.AssemblyReference.cache
+/home/philipp/Dokumente/Programmieren/C#/Tracker/obj/Debug/net6.0/Tracker.GeneratedMSBuildEditorConfig.editorconfig
+/home/philipp/Dokumente/Programmieren/C#/Tracker/obj/Debug/net6.0/Tracker.AssemblyInfoInputs.cache
+/home/philipp/Dokumente/Programmieren/C#/Tracker/obj/Debug/net6.0/Tracker.AssemblyInfo.cs
+/home/philipp/Dokumente/Programmieren/C#/Tracker/obj/Debug/net6.0/Tracker.csproj.CoreCompileInputs.cache
+/home/philipp/Dokumente/Programmieren/C#/Tracker/obj/Debug/net6.0/Tracker.dll
+/home/philipp/Dokumente/Programmieren/C#/Tracker/obj/Debug/net6.0/refint/Tracker.dll
+/home/philipp/Dokumente/Programmieren/C#/Tracker/obj/Debug/net6.0/Tracker.pdb
+/home/philipp/Dokumente/Programmieren/C#/Tracker/obj/Debug/net6.0/Tracker.genruntimeconfig.cache
+/home/philipp/Dokumente/Programmieren/C#/Tracker/obj/Debug/net6.0/ref/Tracker.dll
